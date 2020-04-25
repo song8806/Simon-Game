@@ -1,2 +1,4 @@
 # Simon-Game
  
+Technique:
+jQuery
